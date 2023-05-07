@@ -102,12 +102,6 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>cc.javajobs.wgbridge</groupId>
-            <artifactId>WorldGuardBridge</artifactId>
-            <version>1.0</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
             <groupId>xyz.xenondevs</groupId>
             <artifactId>particle</artifactId>
             <version>1.8.4</version>
