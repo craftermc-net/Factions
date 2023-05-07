@@ -29,7 +29,6 @@ public class CmdMoney extends FCommand {
         //this.optionalArgs.put("","")
 
         this.helpLong.add(TextUtil.parseTags(TL.COMMAND_MONEY_LONG.toString()));
-
         this.addSubCommand(this.cmdMoneyBalance);
         this.addSubCommand(this.cmdMoneyDeposit);
         this.addSubCommand(this.cmdMoneyWithdraw);
